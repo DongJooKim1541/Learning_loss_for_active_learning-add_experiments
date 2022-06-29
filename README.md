@@ -1,4 +1,4 @@
-# learning_loss_for_active_learning_add_experiments
+# Learning loss for active learning_add_experiments
 Paper code of learning loss for active learning and additional experiments performed
 
 ## Paper
