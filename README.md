@@ -1,5 +1,5 @@
 # Learning loss for active learning add experiments
-Paper code of learning loss for active learning and additional experiments performed
+Paper's code of learning loss for active learning and additional experiments performed
 
 ## Paper
 https://arxiv.org/pdf/1905.03677.pdf
