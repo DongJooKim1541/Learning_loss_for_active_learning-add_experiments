@@ -18,12 +18,12 @@ Pytorch
 
 ## Experimental Result
 
-<img src = "./Experiments_detail.PNG" width="50%"> 
+<img src = "./Experiments_detail.PNG" width="80%"> 
 Detail of experiments
 
 <br/>
 <br/>
 
-<img src = "./Experiments.PNG" width="50%"> 
+<img src = "./Experiments.PNG" width="100%"> 
 Additioal experimental results
 
