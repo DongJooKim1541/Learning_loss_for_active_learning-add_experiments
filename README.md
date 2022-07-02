@@ -16,7 +16,7 @@ Pytorch
 
 <br/>
 
-## Experimental Result
+## Additional experimental Result
 
 <img src = "./Experiments_detail.PNG" width="80%"> 
 Detail of experiments
